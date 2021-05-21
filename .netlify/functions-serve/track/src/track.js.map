@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": ["../../functions/track.js"],
+  "sourceRoot": "/Users/jgantunes/workspace/netlify/test-ntl-functions/.netlify/functions-serve",
+  "sourcesContent": ["\nconst handler = async function () {\n  return {\n    statusCode: 200,\n  }\n}\n\nmodule.exports = {\n  handler,\n}\n\n"],
+  "mappings": ";AACA,IAAM,UAAU,iBAAkB;AAChC,SAAO;AAAA,IACL,YAAY;AAAA;AAAA;AAIhB,OAAO,UAAU;AAAA,EACf;AAAA;",
+  "names": []
+}
